@@ -1,2 +1,2 @@
-# python
-Python modules
+# python itertools 
+some itertools functions
